@@ -13,6 +13,20 @@ Neu Khata is a Flutter-based digital ledger app for small businesses. It helps m
 - Language support: English and Urdu
 - Local data persistence using Isar database
 
+## Screenshots
+
+| Screen 1 | Screen 2 | Screen 3 |
+| --- | --- | --- |
+| ![Screen 1](assets/images/screen.png) | ![Screen 2](assets/images/screen%202.png) | ![Screen 3](assets/images/screen%203.png) |
+
+| Screen 4 | Screen 5 | Screen 6 |
+| --- | --- | --- |
+| ![Screen 4](assets/images/screen%204.png) | ![Screen 5](assets/images/screen%205.png) | ![Screen 6](assets/images/screen%206.png) |
+
+| Screen 7 | Screen 8 | Screen 9 |
+| --- | --- | --- |
+| ![Screen 7](assets/images/screen%207.png) | ![Screen 8](assets/images/screen%208.png) | ![Screen 9](assets/images/screen%209.png) |
+
 ## Tech Stack
 
 - Flutter + Dart
